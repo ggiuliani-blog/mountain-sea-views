@@ -11,8 +11,4 @@ tags:
 - Photos
 
 ---
-{{< tabs >}}
-
-{{< tab "Virtual tour" >}} {{< youtube JPG5wO7HYb8 >}} {{< /tab >}}
-
-{{</ tabs >}}
+test
