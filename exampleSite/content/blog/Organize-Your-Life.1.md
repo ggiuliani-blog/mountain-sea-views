@@ -11,4 +11,4 @@ tags:
 - Photos
 
 ---
-test
+{{< youtube JPG5wO7HYb8 >}}
